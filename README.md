@@ -1,16 +1,16 @@
-# Hi 👋 I'm Musomba
+# Hi 👋, I'm Musomba
 
-## About Me
+### 🚀 Aspiring Full Stack Developer | Django Developer | Cybersecurity Enthusiast
 
 🎓 BSc Information Technology Student
 
-💻 Django & Python Developer
+💻 Passionate about building real-world web applications with Python & Django
 
-🌐 Learning Full Stack Web Development
+🌱 Currently learning JavaScript, REST APIs, Linux, Docker & Cybersecurity
 
-🔒 Interested in Cybersecurity
+🎯 Goal: Become a Full Stack Software Engineer and contribute to Open Source
 
-🚀 Building real-world projects
+📫 Reach me: **musombasamuel3@gmail.com**
 
 ---
 
@@ -30,7 +30,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF3E00?style=for-the-badge&logo=hackthebox&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
 🏠 **JengaHomes** – Real Estate Management System
 
@@ -53,14 +53,47 @@
 ## 📚 Currently Learning
 
 - JavaScript
+- Django REST Framework
 - PostgreSQL
-- REST APIs
-- Linux
 - Docker
+- Linux
 - Cybersecurity
+- Open Source Contribution
 
 ---
 
-## 📫 Reach Me
+## 📊 GitHub Stats
 
-📧 **Email:** musombasamuel3@gmail.com
+![](https://github-readme-stats.vercel.app/api?username=Somba-kyalo&theme=tokyonight&hide_border=true&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Somba-kyalo&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Somba-kyalo&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Somba-kyalo&theme=tokyonight&no-frame=true&row=1&column=7)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Somba-kyalo&theme=tokyo-night)
+
+---
+
+## 🌍 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Somba--kyalo-181717?style=for-the-badge&logo=github)](https://github.com/Somba-kyalo)
+
+[![Email](https://img.shields.io/badge/Gmail-musombasamuel3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musombasamuel3@gmail.com)
+
+---
+
+![](https://komarev.com/ghpvc/?username=Somba-kyalo&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+---
+
+> **"Code. Learn. Build. Improve. Repeat."**
